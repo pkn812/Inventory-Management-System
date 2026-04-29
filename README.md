@@ -159,7 +159,7 @@ mysql -u root -p inventory_db < backup_2024-01-01.sql
 
 ---
 
-## Future Enhancements (as suggested in project brief)
+## Future Enhancements
 
 - **Barcode scanning** — integrate a USB/Bluetooth scanner to auto-fill ProductID on stock entries
 - **ERP integration** — expose a REST API (Flask/FastAPI) to connect with SAP or Odoo
